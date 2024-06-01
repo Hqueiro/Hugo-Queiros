@@ -16,7 +16,6 @@ Olá me chamo Hugo
   ##
 
 
-
 🚥Estou em transição de carreira quero ingressar como progamador jr
 
 
