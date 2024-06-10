@@ -7,7 +7,7 @@ Olá me chamo Hugo
 
 
 
-📓Estou estudando Python e SQL
+📓Conhecimento em Python e SQL
 
 
 
